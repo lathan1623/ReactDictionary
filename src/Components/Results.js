@@ -1,4 +1,5 @@
 import React from 'react';
+
 const Results = (props) => (
   <div className="results">
     {props.searchedWord && <h1>{props.searchedWord}:</h1>}
