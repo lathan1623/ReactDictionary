@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lathan1623/ReactDictionary/static/css/main.19096e87.chunk.css",
-    "main.js": "/lathan1623/ReactDictionary/static/js/main.e616f20f.chunk.js",
-    "main.js.map": "/lathan1623/ReactDictionary/static/js/main.e616f20f.chunk.js.map",
-    "runtime~main.js": "/lathan1623/ReactDictionary/static/js/runtime~main.fef7171e.js",
-    "runtime~main.js.map": "/lathan1623/ReactDictionary/static/js/runtime~main.fef7171e.js.map",
-    "static/css/2.266e55a5.chunk.css": "/lathan1623/ReactDictionary/static/css/2.266e55a5.chunk.css",
-    "static/js/2.e3ff0839.chunk.js": "/lathan1623/ReactDictionary/static/js/2.e3ff0839.chunk.js",
-    "static/js/2.e3ff0839.chunk.js.map": "/lathan1623/ReactDictionary/static/js/2.e3ff0839.chunk.js.map",
-    "index.html": "/lathan1623/ReactDictionary/index.html",
-    "precache-manifest.596b6bd8b9736497b78706184e92f71f.js": "/lathan1623/ReactDictionary/precache-manifest.596b6bd8b9736497b78706184e92f71f.js",
-    "service-worker.js": "/lathan1623/ReactDictionary/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/lathan1623/ReactDictionary/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.19096e87.chunk.css.map": "/lathan1623/ReactDictionary/static/css/main.19096e87.chunk.css.map"
+    "main.css": "/ReactDictionary/static/css/main.19096e87.chunk.css",
+    "main.js": "/ReactDictionary/static/js/main.82e7a5dc.chunk.js",
+    "main.js.map": "/ReactDictionary/static/js/main.82e7a5dc.chunk.js.map",
+    "runtime~main.js": "/ReactDictionary/static/js/runtime~main.0d4139d2.js",
+    "runtime~main.js.map": "/ReactDictionary/static/js/runtime~main.0d4139d2.js.map",
+    "static/css/2.266e55a5.chunk.css": "/ReactDictionary/static/css/2.266e55a5.chunk.css",
+    "static/js/2.54dff7e6.chunk.js": "/ReactDictionary/static/js/2.54dff7e6.chunk.js",
+    "static/js/2.54dff7e6.chunk.js.map": "/ReactDictionary/static/js/2.54dff7e6.chunk.js.map",
+    "index.html": "/ReactDictionary/index.html",
+    "precache-manifest.4969f07132795cf58c97e7710a810e41.js": "/ReactDictionary/precache-manifest.4969f07132795cf58c97e7710a810e41.js",
+    "service-worker.js": "/ReactDictionary/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/ReactDictionary/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.19096e87.chunk.css.map": "/ReactDictionary/static/css/main.19096e87.chunk.css.map"
   }
 }
