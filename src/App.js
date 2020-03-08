@@ -9,7 +9,7 @@ import Modal from './Components/Modal';
 
 const API_KEY = '3110d706-0b47-4ffa-8b16-ed33de45f0ef';
 /**
- * Main App Class
+ * Main App Class....
  */
 class App extends React.Component {
   /**
